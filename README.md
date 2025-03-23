@@ -2,7 +2,7 @@
 
 ## HR Data Analytics
 
-## Result#
+### Result
 
 - **Employee Attrition Analysis:** Visualized attrition trends to understand employee turnover.
 - **Performance Insights:** Highlighted performance patterns and factors influencing employee retention.
